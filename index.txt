@@ -1,0 +1,16 @@
+1.Client bhaiya
+main aap ham sab 
+2.Server
+3.Browser
+chrome
+jab url likh te toh client youtube maangta hai
+samjho like a restaraunt waiter(browser) 
+client se order leta aur youtube chef 
+yaani ki server se data maangta aur 
+waapis client ko provide karta
+200:ok response
+404:not found
+backend kaise server data ko process kar raha 
+ek ek ke har webpage ko alg store karoge
+ ya dynamicakky toh dynamically karenge
+ 
