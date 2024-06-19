@@ -1,0 +1,1 @@
+alert("WELCOME TO MY NEW WEBSITE")
