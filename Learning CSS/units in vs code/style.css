@@ -1,11 +1,33 @@
-.box{
-    box-sizing: border-box;
-    border:2 px solid black;
-    width: 20 vw;
-    background-color: aqua;
 
-}
-*{
+.boxer{
+    box-sizing: border-box;
+    width: 80vw;
+    border: 2px solid black;
+    margin:  auto;
+    height: 10vh ;
+    background-color: aqua;
+  }
+  *{
     margin: 0;
     padding: 0;
-}
+  }
+  .box2{
+    box-sizing: border-box;
+    width: 80vw;
+    border: 2px solid black;
+    margin: 23px auto;
+    height: 80vh ;
+    background-color: aqua;
+  }
+  .box2 p{
+    font-size: 20 0%;
+  }
+  .mycon{
+    box-sizing: border-box;
+    width: 80vw;
+    border: 2px solid black;
+    margin: 23px auto;
+    height: 10vh ;
+    background-color: aqua;
+  
+  }
