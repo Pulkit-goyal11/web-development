@@ -1,0 +1,11 @@
+.box{
+    box-sizing: border-box;
+    border:2 px solid black;
+    width: 20 vw;
+    background-color: aqua;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
